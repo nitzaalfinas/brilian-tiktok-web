@@ -4,15 +4,15 @@ const PrivacyPolicy = () => {
   return (
     <div style={{ padding: "20px", fontFamily: "Arial, sans-serif", lineHeight: "1.6" }}>
       <h1>Privacy Policy</h1>
-      <p><strong>Effective Date:</strong> June 3, 2025</p>
+      <p><strong>Effective Date:</strong> October 23, 2025</p>
       <p>
-        Brilian TikTok App ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
+        Brilian TikTok ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
       </p>
 
       <h2>1. Information We Collect</h2>
       <ul>
         <li>
-          <strong>Account Information:</strong> We may collect your username, email, and profile photo when you register or update your account.
+          <strong>Account Information:</strong> We may collect your username when you register or update your account.
         </li>
         <li>
           <strong>Content:</strong> Videos, comments, and likes that you upload or interact with in the app.
@@ -52,8 +52,8 @@ const PrivacyPolicy = () => {
         If you have any questions or concerns about this Privacy Policy, please contact us at:
       </p>
       <ul>
-        <li>Email: <a href="mailto:chatsupport@idbrilian.com">chatsupport@idbrilian.com</a></li>
-        <li>Website: <a href="https://chat.idbrilian.com">https://chat.idbrilian.com</a></li>
+        <li>Email: <a href="mailto:media_sosial@idbrilian.com">media_sosial@idbrilian.com</a></li>
+        <li>Website: <a href="https://tiktok.idbrilian.com">https://tiktok.idbrilian.com</a></li>
       </ul>
     </div>
   );

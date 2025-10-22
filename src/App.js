@@ -12,7 +12,7 @@ const App = () => {
         {/* Hero Section */}
         <div style={styles.heroSection}>
           <div style={styles.heroOverlay}></div>
-          <h1 style={styles.heroText}>COMMUNICATION<br/>in the Age of<br/>DECENTRALIZATION</h1>
+          <h1 style={styles.heroText}>TIKTOK<br/>for the<br/>Modern Generation</h1>
         </div>
 
         {/* Navigation */}
